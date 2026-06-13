@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaustubh Mishra</h1>
+<h1 align="center">💫 Hi 👋, I'm Kaustubh Mishra</h1>
 <h3 align="center">Aspiring Software Developer with a strong foundation in data structures, algorithms, and backend development. Passionate about building efficient, scalable systems and solving complex problems. Currently exploring AI/ML and its real-world applications. Focused on writing clean, maintainable code and continuously improving through hands-on practice. Open to internship opportunities and collaborative development work.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubhmishra1&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubhmishra1" /> </p>
